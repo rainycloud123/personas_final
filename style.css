@@ -1,0 +1,35 @@
+
+body{
+    background-color: #a7bdcc; /*can click to change!*/
+
+}
+
+h4 {
+    padding-top: 2rem;
+}
+
+
+.btn:hover,
+.btn:focus{
+    filter: brightness(120%);  
+}
+
+.btn-lg{
+    background-color: rgb(59, 99, 230);
+}
+
+#summary{
+    padding-top: 3rem;
+}
+
+#empathy{
+    padding-top: 3rem;
+}
+
+#storyboard{
+    padding-top: 3rem;
+}
+
+
+
+
